@@ -1,3 +1,4 @@
 最初のファイル
 ・git add
 ・git rm
+・git status
